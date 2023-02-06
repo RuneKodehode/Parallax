@@ -8,6 +8,19 @@ html {
   animation: bakgrunn 7s infinite alternate-reverse;
   background-color: #f6aa1ca8;
 }
+::-webkit-scrollbar {
+  width: 15px;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar-track {
+  overflow-x: hidden;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #000000;
+  border-radius: 15px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
 .ptext .border.trans {
   background-color: transparent;
   animation: bakgrunn 7s infinite alternate-reverse;
