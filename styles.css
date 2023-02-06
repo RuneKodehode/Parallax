@@ -16,10 +16,8 @@ html {
   overflow-x: hidden;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #000000;
-  border-radius: 15px;
-  border: 2px solid transparent;
-  background-clip: content-box;
+  background-color: #4f5151;
+  overflow-x: hidden;
 }
 .ptext .border.trans {
   background-color: transparent;
