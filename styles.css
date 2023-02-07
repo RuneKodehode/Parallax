@@ -105,14 +105,23 @@ html {
   cursor: pointer;
   border: 5px solid #f6aa1c;
 }
-@media (max-width: 568px) {
+@media (max-width: 900px) {
   .img1,
   .img2,
   .img3,
   .img4 {
     background-attachment: scroll;
   }
+  span {
+    font-size: 20px;
+  }
+  #fsButton {
+    font-size: 17px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 30px;
+  }
 }
 #fsbutton {
-  transition: 3s;
+  transition: 2s;
 }

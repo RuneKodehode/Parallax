@@ -5,8 +5,7 @@ function heightenPic() {
     bilde.style.height = "100%";
     scaled = 1;
     bilde.style.transition = "5s";
-    document.getElementById("fsButton").textContent =
-      "why would you click this.";
+    document.getElementById("fsButton").textContent = "why?";
   } else {
     bilde.style.transition = "3s";
     bilde.style.height = "20%";
