@@ -46,20 +46,20 @@ html {
   opacity: 1;
 }
 .img1 {
-  background-image: url("images/Headline-photo.avif");
+  background-image: url("images/Headline-photo.webp");
   min-height: 65%;
 }
 .img2 {
-  background-image: url("images/river-cano.avif");
+  background-image: url("images/river-cano.webp");
   min-height: 50%;
 }
 .img3 {
-  background-image: url("images/jungle.avif");
+  background-image: url("images/jungle.webp");
   height: 0;
   min-height: 20%;
 }
 .img4 {
-  background-image: url("images/monkey.avif");
+  background-image: url("images/monkey.webp");
   min-height: 100%;
 }
 .section {
